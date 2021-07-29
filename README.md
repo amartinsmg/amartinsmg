@@ -5,7 +5,7 @@
     - Programming logic and fundamentals
     - HTML and CSS
     - JavaScript
-- 🌿 I'm currently learning C
+- 🌿 I'm currently learning Python
 
  <div>
   <a href="https://github.com/amartinsmg">
