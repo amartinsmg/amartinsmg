@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I'm working with JavaScript
+- 💻 I'm working with front-end
 - 📚 I'm currently learning Python
 
 <div style="display: inline_block"><br>
