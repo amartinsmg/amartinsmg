@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 💻 I'm working with front-end
-- 📚 I'm currently learning Python
+- 💻 I'm learning to program...
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/amartinsmg">
