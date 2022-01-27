@@ -14,6 +14,6 @@
 #
 <div>
   <a href="https://github.com/amartinsmg">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amartinsmg&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amartinsmg&show_icons=true&theme=react&include_all_commits=false&count_private=false"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartinsmg&layout=compact&langs_count=7&theme=react"/>
 </div>
