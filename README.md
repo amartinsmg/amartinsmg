@@ -28,7 +28,7 @@
 #
 <div>
   <a href="https://github.com/amartinsmg">
-  <img src="https://metrics.lecoq.io/amartinsmg?template=classic&languages=1&base.indepth=false&languages.ignored=html%2C%20css&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=python%3A%231E415D&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo"/>
+  <img src="https://metrics.lecoq.io/amartinsmg?template=classic&languages=1&base.indepth=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github%2C%20python%3A%231E415D&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo"/>
 </div>
 
 
