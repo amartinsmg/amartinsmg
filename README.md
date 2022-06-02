@@ -3,7 +3,7 @@
 - 💻 I'm a Computer Engineering student...
 
 ### Languages:
-<div style="display: inline_block">
+<div style="display: flex; flex-wrap: wrap; gap:5px">
   <a href="#">
   <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -17,7 +17,7 @@
 
   
 ### Other technologies:
- <div style="display: inline_block">
+ <div style="display: flex; flex-wrap: wrap; gap:5px">
   <a href="#">
    <img align="center" alt="Node JS" title="Node JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Git" title="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
