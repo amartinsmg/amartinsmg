@@ -3,7 +3,7 @@
 - 💻 I'm a Computer Engineering student...
 
 ### Languages:
-<div style="display: flex; flex-wrap: wrap; gap:5px">
+<div style="display: flex; flex-wrap: wrap; gap: 10px">
   <a href="#">
   <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
