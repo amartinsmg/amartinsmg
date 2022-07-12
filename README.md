@@ -29,6 +29,6 @@
 <div>
   <a href="https://github.com/amartinsmg">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amartinsmg&show_icons=true&include_all_commits=false&count_private=false&theme=github_dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartinsmg&layout=compact&langs_count=6&hide=webassembly,html,css&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartinsmg&layout=compact&langs_count=6&hide=webassembly&theme=github_dark"/>
 </div>
 
