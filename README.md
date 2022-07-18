@@ -15,27 +15,17 @@
  </a>
 </div>
 
+### Other skills:
 
-### Libs, frameworks and DBs:
- <div>
-  <a href="#">
-   <img align="center" alt="SQLite" title="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-   <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  </a>
- </div>
-  
-### Other technologies:
- <div>
-  <a href="#">
-   <img align="center" alt="Node JS" title="Node JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="Webpack" title="Webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
-   <img align="center" alt="Git" title="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="VS Code" title="Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
-    <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Linux" title="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Windows" title="Microsoft Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-  </a>
-</div>
+````json
+  {
+    "frameworks-libs": ["Bootstrap"],
+    "databases": ["SQLite"],
+    "ide": "Visual Studio Code",
+    "OS": ["Windows", "Linux"],
+    "tools": ["Babel", "Docker", "Git", "Node JS", "Webpack"]
+  }
+````
 
 #
 <div>
