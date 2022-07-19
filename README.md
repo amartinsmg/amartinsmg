@@ -19,11 +19,14 @@
 
 ````json
   {
-    "frameworks-libs": ["Bootstrap"],
+    "frameworks": ["Bootstrap"],
     "databases": ["SQLite"],
-    "ide": "Visual Studio Code",
-    "OS": ["Windows", "Linux"],
-    "tools": ["Babel", "Docker", "Git", "Node JS", "Webpack"]
+    "tools": {
+      "js": ["Babel", "Node JS", "npm", "Webpack"],
+      "IDE": "Visual Studio Code",
+      "OS": ["Windows", "Linux"],
+      "other": ["Docker", "Git"]
+    }
   }
 ````
 
