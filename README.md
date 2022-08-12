@@ -20,7 +20,7 @@
 ````json
   {
     "frameworks": ["Bootstrap"],
-    "databases": ["SQLite"],
+    "databases": ["SQLite", "Postgres"],
     "tools": {
       "js": ["Babel", "Node JS", "npm", "Webpack"],
       "IDE": "Visual Studio Code",
