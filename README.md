@@ -26,7 +26,7 @@
     "git": true,
     "docker": true,
     "enviroments": {
-      "js": ["Babel", "Node JS", "npm", "Webpack"]
+      "js": ["Babel", "Node JS", "npm", "Webpack", "yarn"]
     }
   }
 ```
@@ -35,7 +35,7 @@
 <div>
   <a href="#">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amartinsmg&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartinsmg&layout=compact&langs_count=6&hide=webassembly&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartinsmg&layout=compact&langs_count=8&hide=webassembly&theme=github_dark"/>
   </a>
 </div>
 
