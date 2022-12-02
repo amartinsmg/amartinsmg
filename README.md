@@ -19,7 +19,7 @@
 
 ```json
   {
-    "frameworks": "Bootstrap",
+    "frameworks": ["Bootstrap", "TailwindCSS"],
     "databases": ["SQLite", "Postgres"],
     "IDE": "Visual Studio Code",
     "OS": ["Windows", "Linux", "WSL"],
