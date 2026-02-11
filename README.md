@@ -30,8 +30,3 @@
     }
   }
 ```
-
-#
-![](https://github-readme-stats.vercel.app/api?username=amartinsmg&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amartinsmg&layout=compact&langs_count=6&hide=webassembly&theme=github_dark)
-
