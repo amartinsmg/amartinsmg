@@ -11,6 +11,8 @@ permissions:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    environment:
+      name: test
     steps:
       - uses: actions/checkout@v4
       - uses: stefvuck/Github-Language-Stats@v1.1.0
