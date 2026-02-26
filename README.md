@@ -30,3 +30,6 @@
     }
   }
 ```
+
+![Most used languages](./stats/leaderboard_by_weighted.png)
+
