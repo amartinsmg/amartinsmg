@@ -1,17 +1,35 @@
-## Hi there 👋
+# André Martins
 
-- 💻 I'm a Computer Engineering student...
+Computer Engineering student interested in algorithms, computational mathematics, and systems-oriented development.
+
+I build mathematical and computational tools across web and CLI environments, often implementing core logic from scratch to better understand performance, numerical behavior, and language design.
+
+---
+
+## What I Work On
+
+- Mathematical and statistical tools (web-based and CLI)
+- Algorithm implementations (searching, sorting, numerical methods)
+- Runtime and performance experiments across languages
+- Small systems projects with database integration (SQLite)
+
+Many of my projects are static web applications deployed via GitHub Pages, focusing on clarity, correctness, and practical usability.
+
+---
+
+## Stack
+
 
 ### Languages:
 <div>
   <a href="#">
+  <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C" title="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" title="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </a>
 </div>
 
@@ -21,15 +39,25 @@
   {
     "frameworks": ["Bootstrap", "TailwindCSS"],
     "databases": ["SQLite", "Postgres"],
-    "IDE": "Visual Studio Code",
+    "oher": ["git", "bash", "docker"],
     "OS": ["Windows", "Linux", "WSL"],
-    "git": true,
-    "docker": true,
+    "IDE": "Visual Studio Code",
     "enviroments": {
-      "js": ["Babel", "Node JS", "npm", "Webpack", "yarn"]
+      "js": ["Node JS", "npm", "yarn", "Webpack", "Babel"]
     }
   }
 ```
+
+---
+
+## Approach
+
+I prefer understanding fundamentals over relying purely on abstractions.  
+Most projects are built to explore how things work — from mathematical models to runtime behavior.
+
+---
+
+## Most used languages
 
 ![Most used languages](./stats/leaderboard_by_weighted.png)
 
