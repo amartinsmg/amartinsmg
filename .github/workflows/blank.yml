@@ -19,7 +19,7 @@ jobs:
         with:
           github_token: ${{ secrets.LANGUAGE_STATS_TOKEN }}
           visualization_types: "leaderboard"
-          exclude_languages: "Jupyter Notebook,Makefile,Ruby,Dart,Go,Fortran,Rust,Kotlin,Perl,R,Julia,MATLAB,Visual Basic .NET,PHP,Java,C#"
+          exclude_languages: "Jupyter Notebook,Makefile,Ruby,Dart,Go,Fortran,Rust,Kotlin,Perl,R,MATLAB,Visual Basic .NET,PHP,Java,C#"
           top_repos_count: '5'
           dark_mode: "true"
           output_path: "stats"
