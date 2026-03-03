@@ -17,6 +17,13 @@ Many of my projects are static web applications deployed via GitHub Pages, focus
 
 ---
 
+## Approach
+
+I prefer understanding fundamentals over relying purely on abstractions.  
+Most projects are built to explore how things work — from mathematical models to runtime behavior.
+
+---
+
 ## Stack
 
 
@@ -48,16 +55,7 @@ Many of my projects are static web applications deployed via GitHub Pages, focus
   }
 ```
 
----
-
-## Approach
-
-I prefer understanding fundamentals over relying purely on abstractions.  
-Most projects are built to explore how things work — from mathematical models to runtime behavior.
-
----
-
-## Most used languages
+### Most used languages
 
 ![Most used languages](./stats/leaderboard_by_weighted.png)
 
