@@ -6,7 +6,7 @@ I build mathematical and computational tools across web and CLI environments, of
 
 ---
 
-## What I Work On
+## 👨‍💻 What I Work On
 
 - Mathematical and statistical tools (web-based and CLI)
 - Algorithm implementations (searching, sorting, numerical methods)
@@ -17,14 +17,14 @@ Many of my projects are static web applications deployed via GitHub Pages, focus
 
 ---
 
-## Approach
+## 🎯 Approach
 
 I prefer understanding fundamentals over relying purely on abstractions.  
 Most projects are built to explore how things work — from mathematical models to runtime behavior.
 
 ---
 
-## Stack
+## </> Stack
 
 
 ### Languages:
@@ -57,5 +57,5 @@ Most projects are built to explore how things work — from mathematical models 
 
 ### Most used languages
 
-![Most used languages](./stats/leaderboard_by_weighted.png)
+![Most used languages](./stats/leaderboard_by_lines.png)
 
