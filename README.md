@@ -1,31 +1,57 @@
 # André Martins
 
-Computer Engineering student interested in algorithms, computational mathematics, and systems-oriented development.
-
-I build mathematical and computational tools across web and CLI environments, often implementing core logic from scratch to better understand performance, numerical behavior, and language design.
-
----
-
-## 👨‍💻 What I Work On
-
-- Mathematical and statistical tools (web-based and CLI)
-- Algorithm implementations (searching, sorting, numerical methods)
-- Runtime and performance experiments across languages
-- Small systems projects with database integration (SQLite)
-
-Many of my projects are static web applications deployed via GitHub Pages, focusing on clarity, correctness, and practical usability.
+🇧🇷 Estudante de Engenharia de Computação com interesse em desenvolvimento de sistemas, algoritmos e matemática computacional.  
+🇺🇸 Computer Engineering student interested in systems development, algorithms, and computational mathematics.
 
 ---
 
-## 🎯 Approach
+## 👨‍💻 Sobre / About
 
-I prefer understanding fundamentals over relying purely on abstractions.  
-Most projects are built to explore how things work — from mathematical models to runtime behavior.
+🇧🇷  
+Desenvolvo ferramentas matemáticas e computacionais em ambientes web e CLI, com foco em entender o funcionamento interno das soluções — incluindo desempenho, comportamento em tempo de execução e integração com bancos de dados.  
+
+Atualmente estou direcionando meus estudos para desenvolvimento backend, com foco em construção de APIs e organização de sistemas.
+
+🇺🇸  
+I develop mathematical and computational tools for web and CLI environments, focusing on understanding how systems work internally — including performance, runtime behavior, and database integration.  
+
+I am currently focusing my studies on backend development, especially building APIs and structuring applications.
+
+---
+
+## 👨‍💻 No que trabalho / What I work on
+
+🇧🇷  
+- Ferramentas matemáticas e estatísticas (Web e CLI)  
+- Implementação de algoritmos (busca, ordenação, métodos numéricos)  
+- Experimentos de runtime e performance em diferentes linguagens  
+- Integração com bancos de dados relacionais (SQLite, PostgreSQL)  
+- Manipulação de dados estruturados (JSON)  
+
+🇺🇸  
+- Mathematical and statistical tools (Web and CLI)  
+- Algorithm implementation (search, sorting, numerical methods)  
+- Runtime and performance experiments across languages  
+- Integration with relational databases (SQLite, PostgreSQL)  
+- Structured data handling (JSON)  
+
+---
+
+## 🎯 Abordagem / Approach
+
+🇧🇷  
+Prefiro entender os fundamentos em vez de depender puramente de abstrações.  
+
+Meus projetos exploram como as coisas funcionam na prática — desde modelos matemáticos até execução de código, incluindo acesso a arquivos e interação com bancos de dados via SQL.
+
+🇺🇸  
+I prefer understanding fundamentals rather than relying purely on abstractions.  
+
+My projects explore how things work in practice — from mathematical models to code execution, including file I/O and SQL-based database interaction.
 
 ---
 
 ## </> Stack
-
 
 ### Languages:
 <div>
@@ -43,16 +69,23 @@ Most projects are built to explore how things work — from mathematical models 
 ### Other skills:
 
 ```json
-  {
-    "frameworks": ["Bootstrap", "TailwindCSS"],
-    "databases": ["SQLite", "Postgres"],
-    "oher": ["git", "bash", "docker"],
-    "OS": ["Windows", "Linux", "WSL"],
-    "IDE": "Visual Studio Code",
-    "enviroments": {
-      "js": ["Node JS", "npm", "yarn", "Webpack", "Babel"]
-    }
-  }
+{
+  "databases": ["SQLite", "PostgreSQL"],
+  "data": ["JSON"],
+  "tools": ["git", "bash", "docker"],
+  "OS": ["Windows", "Linux", "WSL"],
+  "IDE": "Visual Studio Code",
+  "environments": {
+    "js": ["Node.js", "npm", "yarn", "Webpack", "Babel"],
+    "python": ["TensorFlow", "NumPy", "scikit-learn", "matplotlib"]
+  },
+  "concepts": [
+    "memory management",
+    "error handling",
+    "file I/O",
+    "database interaction (SQL)"
+  ]
+}
 ```
 
 ### Most used languages
