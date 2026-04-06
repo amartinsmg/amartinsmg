@@ -88,7 +88,10 @@ My projects explore how things work in practice — from mathematical models to 
 }
 ```
 
-### Most used languages
+### Most Used Languages
 
 ![Most used languages](./stats/leaderboard_by_lines.png)
+
+> Main languages used in active and ongoing projects.  
+> Swift and Julia appear in experimental projects (Taylor series and multi-thread/CUDA benchmarks), currently on hold.
 
