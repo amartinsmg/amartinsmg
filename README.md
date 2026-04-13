@@ -1,34 +1,36 @@
 # André Martins
 
-🇧🇷 Estudante de Engenharia de Computação com interesse em desenvolvimento de sistemas, algoritmos e matemática computacional.  
-🇺🇸 Computer Engineering student interested in systems development, algorithms, and computational mathematics.
+🇧🇷 Estudante de Engenharia de Computação focado em desenvolvimento de sistemas, algoritmos e backend.  
+🇺🇸 Computer Engineering student focused on systems development, algorithms, and backend engineering.
 
 ---
 
 ## 👨‍💻 Sobre / About
 
 🇧🇷  
-Desenvolvo ferramentas matemáticas e computacionais em ambientes web e CLI, com foco em entender o funcionamento interno das soluções — incluindo desempenho, comportamento em tempo de execução e integração com bancos de dados.  
+Desenvolvo ferramentas matemáticas e computacionais em ambientes web e CLI, com foco em desempenho, comportamento em tempo de execução e integração com bancos de dados.  
 
-Atualmente estou direcionando meus estudos para desenvolvimento backend, com foco em construção de APIs e organização de sistemas.
+Recentemente, venho desenvolvendo APIs backend em Java, explorando organização de sistemas, manipulação de dados e comunicação via HTTP.
 
 🇺🇸  
-I develop mathematical and computational tools for web and CLI environments, focusing on understanding how systems work internally — including performance, runtime behavior, and database integration.  
+I build mathematical and computational tools for web and CLI environments, focusing on performance, runtime behavior, and database integration.  
 
-I am currently focusing my studies on backend development, especially building APIs and structuring applications.
+More recently, I have been developing backend APIs in Java, exploring system design, data handling, and HTTP-based communication.
 
 ---
 
 ## 🛠️ No que trabalho / What I work on
 
 🇧🇷  
+- Desenvolvimento de APIs backend (Java)  
 - Ferramentas matemáticas e estatísticas (Web e CLI)  
 - Implementação de algoritmos (busca, ordenação, métodos numéricos)  
-- Experimentos de runtime e performance em diferentes linguagens  
+- Experimentos de runtime e performance entre linguagens  
 - Integração com bancos de dados relacionais (SQLite, PostgreSQL)  
 - Manipulação de dados estruturados (JSON)  
 
 🇺🇸  
+- Backend API development (Java)  
 - Mathematical and statistical tools (Web and CLI)  
 - Algorithm implementation (search, sorting, numerical methods)  
 - Runtime and performance experiments across languages  
@@ -42,29 +44,25 @@ I am currently focusing my studies on backend development, especially building A
 🇧🇷  
 Prefiro entender os fundamentos em vez de depender puramente de abstrações.  
 
-Meus projetos exploram como as coisas funcionam na prática — desde modelos matemáticos até execução de código, incluindo acesso a arquivos e interação com bancos de dados via SQL.
+Meus projetos exploram como sistemas funcionam internamente — desde modelos matemáticos até execução de código, incluindo acesso a arquivos, manipulação de memória e interação com bancos de dados via SQL.
 
 🇺🇸  
 I prefer understanding fundamentals rather than relying purely on abstractions.  
 
-My projects explore how things work in practice — from mathematical models to code execution, including file I/O and SQL-based database interaction.
+My projects focus on how systems work internally — from mathematical models to code execution, including file I/O, memory behavior, and SQL-based database interaction.
 
 ---
 
 ## </> Stack
 
 ### Languages:
-<div>
-  <a href="#">
-  <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C" title="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" title="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
- </a>
-</div>
+
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 
 ### Other skills:
 
