@@ -55,9 +55,9 @@ My projects focus on how systems work internally — from mathematical models to
 
 ---
 
-## </> Stack
+## 🧩 Stack
 
-### 🧩 Backend | ⚙️ Systems | 🌐 Web | 🧪 Data
+### { } Languages
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
@@ -89,7 +89,7 @@ My projects focus on how systems work internally — from mathematical models to
 }
 ```
 
-### ⌨ Most Used Languages
+### </> Most Used Languages
 
 ![Most used languages](./stats/leaderboard_by_lines.png)
 
