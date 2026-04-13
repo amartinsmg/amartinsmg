@@ -10,12 +10,12 @@
 🇧🇷  
 Desenvolvo ferramentas matemáticas e computacionais em ambientes web e CLI, com foco em desempenho, comportamento em tempo de execução e integração com bancos de dados.  
 
-Recentemente, venho desenvolvendo APIs backend em Java, explorando organização de sistemas, manipulação de dados e comunicação via HTTP.
+Recentemente, venho desenvolvendo APIs backend em Java, explorando organização de sistemas, manipulação de dados e comunicação via HTTP, enquanto inicio estudos em desenvolvimento backend com PHP.
 
 🇺🇸  
 I build mathematical and computational tools for web and CLI environments, focusing on performance, runtime behavior, and database integration.  
 
-More recently, I have been developing backend APIs in Java, exploring system design, data handling, and HTTP-based communication.
+More recently, I have been developing backend APIs in Java, exploring system design, data handling, and HTTP-based communication, while starting to explore backend development with PHP.
 
 ---
 
@@ -23,6 +23,7 @@ More recently, I have been developing backend APIs in Java, exploring system des
 
 🇧🇷  
 - Desenvolvimento de APIs backend (Java)  
+- Estudos em desenvolvimento backend com PHP  
 - Ferramentas matemáticas e estatísticas (Web e CLI)  
 - Implementação de algoritmos (busca, ordenação, métodos numéricos)  
 - Experimentos de runtime e performance entre linguagens  
@@ -31,11 +32,12 @@ More recently, I have been developing backend APIs in Java, exploring system des
 
 🇺🇸  
 - Backend API development (Java)  
+- Backend development studies with PHP  
 - Mathematical and statistical tools (Web and CLI)  
 - Algorithm implementation (search, sorting, numerical methods)  
 - Runtime and performance experiments across languages  
 - Integration with relational databases (SQLite, PostgreSQL)  
-- Structured data handling (JSON)  
+- Structured data handling (JSON)
 
 ---
 
@@ -55,16 +57,17 @@ My projects focus on how systems work internally — from mathematical models to
 
 ## </> Stack
 
-### Languages:
+### 🧩 Backend | ⚙️ Systems | 🌐 Web | 🧪 Data
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 
-### Other skills:
+### >_ Other skills:
 
 ```json
 {
@@ -86,7 +89,7 @@ My projects focus on how systems work internally — from mathematical models to
 }
 ```
 
-### Most Used Languages
+### ⌨ Most Used Languages
 
 ![Most used languages](./stats/leaderboard_by_lines.png)
 
