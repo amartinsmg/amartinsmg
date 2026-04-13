@@ -19,7 +19,7 @@ I am currently focusing my studies on backend development, especially building A
 
 ---
 
-## 👨‍💻 No que trabalho / What I work on
+## 🛠️ No que trabalho / What I work on
 
 🇧🇷  
 - Ferramentas matemáticas e estatísticas (Web e CLI)  
