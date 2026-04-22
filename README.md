@@ -23,20 +23,22 @@ More recently, I have been developing backend APIs in Java, exploring system des
 
 🇧🇷  
 - Desenvolvimento de APIs backend (Java)  
-- Estudos em desenvolvimento backend com PHP  
+- Desenvolvimento backend com PHP (aprendizado e experimentação)
 - Ferramentas matemáticas e estatísticas (Web e CLI)  
 - Implementação de algoritmos (busca, ordenação, métodos numéricos)  
-- Experimentos de runtime e performance entre linguagens  
+- Análise comparativa de runtime e performance entre linguagens
+- Computação de propósito geral em GPUs usando CUDA e TensorFlow.
 - Integração com bancos de dados relacionais (SQLite, PostgreSQL)  
 - Manipulação de dados estruturados (JSON)  
 
 🇺🇸  
-- Backend API development (Java)  
-- Backend development studies with PHP  
-- Mathematical and statistical tools (Web and CLI)  
-- Algorithm implementation (search, sorting, numerical methods)  
-- Runtime and performance experiments across languages  
-- Integration with relational databases (SQLite, PostgreSQL)  
+- Backend API development (Java)
+- Backend development with PHP (learning and experimentation)
+- Mathematical and statistical tools (Web and CLI)
+- Algorithm implementation (search, sorting, numerical methods)
+- Runtime and performance benchmarking across different languages
+- General-purpose GPU computing using CUDA and TensorFlow
+- Integration with relational databases (SQLite, PostgreSQL)
 - Structured data handling (JSON)
 
 ---
@@ -73,18 +75,20 @@ My projects focus on how systems work internally — from mathematical models to
 {
   "databases": ["SQLite", "PostgreSQL"],
   "data": ["JSON"],
-  "tools": ["git", "bash", "docker"],
+  "tools": ["Git", "Bash", "Docker"],
   "OS": ["Windows", "Linux", "WSL"],
   "IDE": "Visual Studio Code",
   "environments": {
-    "js": ["Node.js", "npm", "yarn", "Webpack", "Babel"],
-    "python": ["TensorFlow", "NumPy", "scikit-learn", "matplotlib"]
+    "js": ["Node.js", "npm", "yarn", "Webpack"],
+    "python": ["TensorFlow", "NumPy", "Matplotlib"]
   },
   "concepts": [
     "memory management",
     "error handling",
     "file I/O",
-    "database interaction (SQL)"
+    "database interaction (SQL)",
+    "parallel computing (CPU - OpenMP)",
+    "general-purpose GPU computing (CUDA)"
   ]
 }
 ```
