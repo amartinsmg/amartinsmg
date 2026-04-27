@@ -80,14 +80,14 @@ My projects focus on how systems work internally — from mathematical models to
   "IDE": "Visual Studio Code",
   "environments": {
     "js": ["Node.js", "npm", "yarn", "Webpack"],
-    "python": ["TensorFlow", "NumPy", "Matplotlib"]
+    "py": ["TensorFlow", "NumPy", "Matplotlib", "Pandas"]
   },
   "concepts": [
     "memory management",
     "error handling",
     "file I/O",
     "database interaction (SQL)",
-    "parallel computing (CPU - OpenMP)",
+    "parallel computing",
     "general-purpose GPU computing (CUDA)"
   ]
 }
